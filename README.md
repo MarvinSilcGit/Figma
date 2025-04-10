@@ -1,1 +1,1 @@
-# figma
+# Conteúdos referentes ao software Figma;
